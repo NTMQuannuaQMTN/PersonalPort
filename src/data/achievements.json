@@ -1,0 +1,163 @@
+[
+    {
+        "name": "SASMO 2024",
+        "award": "Gold Medal (Global Rank 5, Vietnam Rank 2)",
+        "grade": 10,
+        "type": 2,
+        "image": "sasmo.png"
+    },
+    {
+        "name": "National Computer Science Youth Competition (Tin học trẻ) 2024",
+        "award": "Regional Finalist",
+        "grade": 10,
+        "type": 2,
+        "image": "tht.JPG"
+    },
+    {
+        "name": "IKMC 2024",
+        "award": "National Champion",
+        "grade": 10,
+        "type": 2,
+        "image": "ikmc.JPG"
+    },
+    {
+        "name": "PTNK Initiative in Interdisciplinary Science and Engineering (PIISE) 2024",
+        "award": "Finalist",
+        "grade": 10,
+        "type": 2,
+        "image": "piise.JPG"
+    },
+    {
+        "name": "Citywide Excellent Student Contest 2023",
+        "award": "First Prize",
+        "grade": 9,
+        "type": 2,
+        "image": "hsgtp.jpg"
+    },
+    {
+        "name": "Citywide Contest of Fast Calculation with Calculator 2023",
+        "award": "Second Prize",
+        "grade": 9,
+        "type": 2,
+        "image": "casio.jpg"
+    },
+    {
+        "name": "National Competition for Designing & Building Technologies for People with Disabilities 2023",
+        "award": "Finalist (Top 15)",
+        "grade": 9,
+        "type": 3,
+        "image": "ezkomu.png"
+    },
+    {
+        "name": "AIMO 2021",
+        "award": "Gold Medal - Regional (Top 1 Southern)",
+        "grade": 7,
+        "type": 2,
+        "image": "aimo.JPG"
+    },
+    {
+        "name": "SASMO 2021",
+        "award": "Gold Medal (Global Rank 20, Vietnam Rank 8)",
+        "grade": 7,
+        "type": 2,
+        "image": "sasmo.png"
+    },
+    {
+        "name": "IKMC 2021",
+        "award": "High Distinction",
+        "grade": 7,
+        "type": 2,
+        "image": "ikmc.JPG"
+    },
+    {
+        "name": "World Scholar's Cup 2021",
+        "award": "4 Gold Medal, 4 Silver Medal, Top 14 Team Overall - Ho Chi Minh City Regional Round",
+        "grade": 7,
+        "type": 2,
+        "image": "wsc.JPG"
+    },
+    {
+        "name": "VTMO 2021",
+        "award": "Silver Medal",
+        "grade": 7,
+        "type": 2,
+        "image": "vtmo.JPG"
+    },
+    {
+        "name": "FutureU 2021",
+        "award": "Top 40",
+        "grade": 7,
+        "type": 3,
+        "image": "fu.png"
+    },
+    {
+        "name": "VTMO 2020",
+        "award": "Gold Medal",
+        "grade": 6,
+        "type": 2,
+        "image": "vtmo.JPG"
+    },
+    {
+        "name": "AMO 2019",
+        "award": "Gold Medal",
+        "grade": 6,
+        "type": 2,
+        "image": "amo.JPG"
+    },
+    {
+        "name": "SASMO 2019",
+        "award": "Gold Medal (Global Rank 36, Vietnam Rank 15)",
+        "grade": 5,
+        "type": 1,
+        "image": "sasmo.png"
+    },
+    {
+        "name": "VTMO 2019",
+        "award": "Silver Medal",
+        "grade": 5,
+        "type": 1,
+        "image": "vtmo.JPG"
+    },
+    {
+        "name": "AMO 2018",
+        "award": "Gold Medal",
+        "grade": 5,
+        "type": 1,
+        "image": "amo.JPG"
+    },
+    {
+        "name": "SASMO 2018",
+        "award": "Gold Medal (Global Rank 70, Vietnam Rank 35)",
+        "grade": 4,
+        "type": 1,
+        "image": "sasmo.png"
+    },
+    {
+        "name": "IKMC 2018",
+        "award": "Top 10%",
+        "grade": 4,
+        "type": 1,
+        "image": "ikmc.JPG"
+    },
+    {
+        "name": "VTMO 2017",
+        "award": "Bronze Medal",
+        "grade": 4,
+        "type": 1,
+        "image": "vtmo.JPG"
+    },
+    {
+        "name": "SIMOC 2017",
+        "award": "Silver Medal (Global Rank 28, Vietnam Rank 5)",
+        "grade": 3,
+        "type": 1,
+        "image": "simoc.jpeg"
+    },
+    {
+        "name": "SASMO 2017",
+        "award": "Silver Medal (Vietnam Rank 50)",
+        "grade": 3,
+        "type": 1,
+        "image": "sasmo.png"
+    }
+]

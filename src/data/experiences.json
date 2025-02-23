@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Ricefield",
+        "start_date": "Dec 2024",
+        "end_date": "",
+        "description": "Ricefield is a social media organization. I worked as a Frontend Developer for the organization in Jun 2024, but I failed. 6 months later, I returned to work as a Mobile App Developer.",
+        "skills": [
+            "Frontend Development",
+            "Mobile App Development",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React Native",
+            "TypeScript"
+        ],
+        "type": 1,
+        "image": "rf.jpeg"
+    },
+    {
+        "name": "Garastem",
+        "start_date": "Dec 2024",
+        "end_date": "",
+        "description": "Garastem is a robot-selling company. I worked as a Frontend developer for the company. The website of the company had some errors and bugs and I fixed them to make user experience better.",
+        "skills": [
+            "Frontend Development",
+            "ReactJS",
+            "CSS",
+            "JavaScript"
+        ],
+        "type": 1,
+        "image": "gs.png"
+    },
+    {
+        "name": "xAI Math Olympiad and AI Training Program",
+        "start_date": "Nov 2024",
+        "end_date": "Dec 2024",
+        "description": "I was a member of a group collecting data by solving math questions, which contributed to the training process of an AI by xAI. With the program, I earned about 250 USD.",
+        "skills": [
+            "Mathematics"
+        ],
+        "type": 1,
+        "image": "xai.png"
+    },
+    {
+        "name": "Trạm Chuyển Cấp 25:28",
+        "start_date": "Oct 2024",
+        "end_date": "",
+        "description": "I worked as a Math Specialist at the organization. I designed roadmaps, lessons, and tests to support 2000 ninth-grade students to ace the high school entrance exam. Moreover, I worked in a workshop giving advice to 100 middle-schoolers for that exam. I also taught online to 100 children in order to prepare them for the test.",
+        "skills": [
+            "Strategy",
+            "Creative Content Creation",
+            "Team Leadership",
+            "Mathematics"
+        ],
+        "type": 2,
+        "image": "tcc.jpg"
+    },
+    {
+        "name": "Guess the PGS5 Player",
+        "start_date": "Oct 2024",
+        "end_date": "Oct 2024",
+        "description": "I was the developer of the website Guess the PGS5 Player, which is just a small game for users to guess the player based on some player's information. I made this game when the competition was going to be held in just a week.",
+        "skills": [
+            "Frontend Development",
+            "ReactJS",
+            "CSS",
+            "JavaScript"
+        ],
+        "type": 3,
+        "image": "pgs.png"
+    },
+    {
+        "name": "Sing My Tone",
+        "start_date": "Jul 2024",
+        "end_date": "Aug 2024",
+        "description": "Before deciding to make the project, I had some struggles with singing songs with a pitch which is too high for me. Therefore, I decided to make a website called Sing My Tone to convert the song pitch into the suitable one for me. This website was launched on Github and impacting 100 users.",
+        "skills": [
+            "Frontend Development",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "type": 3,
+        "image": "smt.png"
+    },
+    {
+        "name": "CLB Kỹ Năng Số",
+        "start_date": "Jun 2024",
+        "end_date": "Oct 2024",
+        "description": "I was one of the co-founders of the club. From Jun 2024 to Aug 2024, I taught coding, mathematics, and English to children from 6-14 years old. From Aug 2024 to Oct 2024, I shared two posts per week on Facebook. During the time at the club, I expanded the membership size by 100% and helped 150 people discover coding.",
+        "skills": [
+            "Strategy",
+            "Creative Content Creation",
+            "Team Leadership"
+        ],
+        "type": 2,
+        "image": "kns.jpg"
+    },
+    {
+        "name": "The Institute of Viécie",
+        "start_date": "Mar 2024",
+        "end_date": "Aug 2024",
+        "description": "I was a member of the Research department. At that time, I researched and posted 8 posts sharing Math and Technology knowledge via Facebook, influencing 3000 students and generating 2000 page followers. Moreover, I, together with the organization, went to charity at an orphanage in July 2024.",
+        "skills": [
+            "Strategy",
+            "Creative Content Creation"
+        ],
+        "type": 2,
+        "image": "tiv.jpg"
+    },
+    {
+        "name": "PTNK Harmonica Club",
+        "start_date": "Oct 2023",
+        "end_date": "Mar 2024",
+        "description": "I was a member of the Content department. Despite that, I was called to be a member of the band, playing as a vocalist, due to the shortage of members. As a result, I performed in some music festivals at school, gaining some popularity to the club.",
+        "skills": [],
+        "type": 2,
+        "image": "phc.jpg"
+    },
+    {
+        "name": "Chess Năng Khiếu",
+        "start_date": "Aug 2023",
+        "end_date": "Aug 2024",
+        "description": "I was a member of the HR-Logistic department. I held a competition with 60 participants which are students in the school in November 2023. In April 2024, when my team were holding a competition for 160 students in 40 universities and high schools nationwide, we struggled to find a sponsorship for the prize pool. Therefore, I decided to ask a company for 5000000 VND, which I succeed.",
+        "skills": [
+            "Data Analysis",
+            "Strategy"
+        ],
+        "type": 2,
+        "image": "cnk.jpg"
+    },
+    {
+        "name": "EZ-Komu",
+        "start_date": "Aug 2021",
+        "end_date": "Jun 2022",
+        "description": "I was the developer of the website EZ-Komu. At that time, I competed in a competition against many college students despite being a secondary school student. The task is to create a technology product for people with disabilities. Therefore, I developed a communication-assistant for people with muteness or deafness, and deployed it to Github. As a result, I got into Top 15 of the competition and positively impacting 5 users.",
+        "skills": [
+            "Frontend Development",
+            "Problem-solving",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "type": 3,
+        "image": "ezkomu.png"
+    }
+]
