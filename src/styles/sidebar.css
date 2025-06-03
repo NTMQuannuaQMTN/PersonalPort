@@ -144,3 +144,42 @@ hr {
     background-color: #FFFFFF;
     color: #000000;
 }
+
+@media screen and (max-width: 1024px) {
+    .sidebar {
+        position: relative;
+        width: 92vw;
+        height: fit-content;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin: 0 2vw;
+        border-radius: 1vw;
+        padding: 2vh 2vw;
+        gap: 0;
+    }
+
+    .prehr {
+        width: 100%;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 1.5vw;
+    }
+
+    .pfp {
+        width: 10vw;
+    }
+    
+    .socmed {
+        width: 30%;
+    }
+
+    .name {
+        width: fit-content;
+    }
+    
+    .menu, hr {
+        display: none;
+    }
+}

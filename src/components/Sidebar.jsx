@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import '../styles/sidebar.css'
 
 import myself from '../assets/myself.jpeg';
@@ -13,13 +13,29 @@ function Sidebar(props) {
         });
     }
 
+    const [width, setWidth] = useState(window.innerWidth);
+
+    useEffect(() => {
+        window.addEventListener('resize', () => {
+            setWidth(window.innerWidth);
+        });
+    }, [window.innerWidth]);
+    
+    
+
     return (
         <div className='sidebar'>
             <div className='prehr'>
                 <img className='pfp' src={myself}></img>
                 <div className='name'>
-                    <h1>Nguyen Truong</h1>
-                    <h1>Manh Quan</h1>
+                    {width > 1024 ? (
+                        <>
+                            <h1>Nguyen Truong</h1>
+                            <h1>Manh Quan</h1>
+                        </>
+                    ) : (
+                        <h1>Nguyen Truong Manh Quan</h1>
+                    )}
                 </div>
                 <div className='socmed'>
                     <a className='socmed_element' id='facebook' href={'https://www.facebook.com/qandrj'} target='_blank'>
